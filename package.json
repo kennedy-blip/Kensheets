@@ -1,0 +1,23 @@
+{
+  "name": "kensheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.4",
+    "localforage": "^1.10.0",
+    "papaparse": "^5.5.3",
+    "plotly.js": "^3.3.0",
+    "react-dropzone": "^14.3.8",
+    "stats-lite": "^2.2.0",
+    "xlsx": "^0.18.5"
+  }
+}
